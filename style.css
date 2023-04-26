@@ -1,0 +1,13 @@
+body {
+  font: 100% Helvetica, sans-serif;
+  color: #333;
+  background-color: #fff;
+}
+
+.carousel-item {
+  width: 50%;
+}
+
+.container {
+  background: black;
+}/*# sourceMappingURL=style.css.map */
